@@ -3,9 +3,7 @@ void setup(){
   //background
   fill(#3086E0);
   rect(120, 100, 550, 550);
-  fill(#030303);
-  textSize(50);
-  text("Jason's Virtual Pet", 200,70);
+ 
 };
 void draw(){
    //body
